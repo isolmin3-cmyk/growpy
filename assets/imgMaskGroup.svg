@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="406" height="1303" viewBox="0 0 406 1303" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_0_94" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="406" height="1303">
+<rect id="Rectangle 4406" width="406" height="1303" rx="74" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_94)">
+<g id="&#235;&#176;&#176;&#234;&#178;&#189;&#236;&#131;&#137;" filter="url(#filter0_f_0_94)">
+<path d="M0 1107.45V374.667C0 374.667 86.2567 181.682 202.894 183.547C319.531 185.411 403.618 374.667 403.618 374.667V1107.45C405.715 1161.62 399.69 1182.96 372.695 1200.68H18.9874C18.9874 1200.68 7.05246 1165.26 4.88247 1156.87C2.71249 1148.48 0 1107.45 0 1107.45Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_94" x="-5" y="178.533" width="414" height="1027.15" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.5" result="effect1_foregroundBlur_0_94"/>
+</filter>
+</defs>
+</svg>
